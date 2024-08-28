@@ -1,3 +1,8 @@
 this is my first file
+<<<<<<< HEAD
 add content to file 2
 is more data can be inserted
+=======
+add content to file2
+this is added by prateek 
+>>>>>>> ddc19637e9242cc2dfe744c5495e7186cf62637e
