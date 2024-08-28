@@ -2,3 +2,4 @@ file 2 content here
 add file data more
 hello content
 add another marketing message
+add footer note.
